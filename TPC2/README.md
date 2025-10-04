@@ -1,5 +1,5 @@
 # TPC 2 — Conversor simples de Markdown para HTML
-### 📌 Enunciado
+## Enunciado
 
 Desenvolver um pequeno conversor em Python que transforme um subconjunto da sintaxe Markdown (conforme a Basic Syntax da Cheat Sheet) para HTML. O conversor deve reconhecer e traduzir os seguintes elementos:
 
