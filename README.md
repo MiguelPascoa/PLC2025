@@ -6,5 +6,5 @@ Este repositório contém os exercícios para a cadeira de Processamento de Ling
 - **Nome:** Miguel Dinis Páscoa
 - **ID:** A104244
 
-# Lista de Resultados
+# Lista de Exercícios
 - [TPC 1 — Expressão Regular](./TPC1/)
