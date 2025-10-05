@@ -17,3 +17,7 @@ Ex: ``Este é um *exemplo* ... ``→ ``Este é um <i>exemplo</i> ...``
 - **Link:** ``[texto](url)``→ ``<a href="url">texto</a>``
 
 - **Imagem:** ``![alt](url)`` → ``<img src="url" alt="alt"/>``
+
+### Resolução
+
+- [Conversor](tpc2.ipynb)
