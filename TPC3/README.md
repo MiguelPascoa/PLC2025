@@ -31,7 +31,7 @@ Ex: cada nova linha incrementa o contador de linha.
 
 - **Erro:** qualquer caractere não reconhecido é classificado como `ERRO`.
 
-### 🧩 Exemplo de Entrada
+### Exemplo de Entrada
 ```
 SELECT ?a ?b ?c WHERE {
   ?a a :Pessoa ;
@@ -40,7 +40,7 @@ SELECT ?a ?b ?c WHERE {
 }
 ```
 
-### 💡 Exemplo de Saída
+### Exemplo de Saída
 ```
 [
     ('SELECT', 'SELECT', 0, (0, 6)),
@@ -69,6 +69,6 @@ SELECT ?a ?b ?c WHERE {
 ]
 ```
 
-### ✏️ Resolução
+### Resolução
 
-- [TPC 3 — Analisador Léxico de Queries (tpc3.ipynb)
+- [TPC 3 — Analisador Léxico de Queries] (tpc3.ipynb)
