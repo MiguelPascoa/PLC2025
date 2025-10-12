@@ -31,14 +31,6 @@ Ex: cada nova linha incrementa o contador de linha.
 
 - **Erro:** qualquer caractere não reconhecido é classificado como `ERRO`.
 
-### Exemplo de Entrada
-```
-SELECT ?a ?b ?c WHERE {
-  ?a a :Pessoa ;
-  :temIdade ?b ;
-  :eIrmaoDe ?c .
-}
-```
 
 ### Resolução
 
