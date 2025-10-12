@@ -40,35 +40,6 @@ SELECT ?a ?b ?c WHERE {
 }
 ```
 
-### Exemplo de Saída
-```
-[
-    ('SELECT', 'SELECT', 0, (0, 6)),
-    ('VAR', '?a', 0, (7, 9)),
-    ('VAR', '?b', 0, (10, 12)),
-    ('VAR', '?c', 0, (13, 15)),
-    ('WHERE', 'WHERE', 0, (16, 21)),
-    ('NEWLINE', '\n', 1, (22, 23)),
-    ('PUNCT', '{', 1, (23, 24)),
-    ('NEWLINE', '\n', 2, (24, 25)),
-    ('VAR', '?a', 2, (27, 29)),
-    ('ERRO', 'a', 2, (30, 31)),
-    ('IDENT', ':Pessoa', 2, (32, 39)),
-    ('PUNCT', ';', 2, (40, 41)),
-    ('NEWLINE', '\n', 3, (41, 42)),
-    ('IDENT', ':temIdade', 3, (47, 56)),
-    ('VAR', '?b', 3, (57, 59)),
-    ('PUNCT', ';', 3, (60, 61)),
-    ('NEWLINE', '\n', 4, (61, 62)),
-    ('IDENT', ':eIrmaoDe', 4, (67, 76)),
-    ('VAR', '?c', 4, (77, 79)),
-    ('PUNCT', '.', 4, (80, 81)),
-    ('NEWLINE', '\n', 5, (81, 82)),
-    ('PUNCT', '}', 5, (82, 83)),
-    ('NEWLINE', '\n', 6, (83, 84))
-]
-```
-
 ### Resolução
 
-- [TPC 3 — Analisador Léxico de Queries] (tpc3.ipynb)
+- [TPC 3 — Analisador Léxico de Queries](tpc3.ipynb)
