@@ -102,5 +102,5 @@ maq: Até à próxima!
 
 ---
 
-### ✏️ Resolução
+### Resolução
 - [TPC 4 — Máquina de Vending](tpc4.py)
