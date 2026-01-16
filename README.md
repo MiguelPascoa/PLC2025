@@ -12,3 +12,4 @@ Este repositório contém os exercícios para a cadeira de Processamento de Ling
 - [TPC 3 - Analisador Léxico de Queries](./TPC3/)
 - [TPC4 - Vending Machine](./TPC4/)
 - [TPC5 - Parser](./TPC5/)
+- [Projeto - Compilador Pascoal](./Projeto/)
